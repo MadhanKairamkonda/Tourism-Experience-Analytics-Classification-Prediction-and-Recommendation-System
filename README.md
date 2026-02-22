@@ -1,0 +1,2 @@
+# Tourism-Experience-Analytics-Classification-Prediction-and-Recommendation-System
+A smart tourism recommendation system that suggests attractions using both user behavior and attraction features. It combines collaborative filtering (Matrix Factorization) and content-based learning (Random Forest) into a hybrid model. Includes proper evaluation, cold-start handling, and an interactive Streamlit app for real-time recommendations.
